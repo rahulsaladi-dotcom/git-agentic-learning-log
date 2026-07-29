@@ -8,3 +8,6 @@ Revisiting Git basics for personal Projects like this voice based personal produ
 - Branching and merging
 - Pull Requests
 - Publishing to Github
+
+## Agentic learning track
+- learned to use the langraph for agents with tool calls and prompt templates
