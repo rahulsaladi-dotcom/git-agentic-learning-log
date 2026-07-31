@@ -9,5 +9,5 @@ Revisiting Git basics for personal Projects like this voice based personal produ
 - Pull Requests
 - Publishing to Github
 
-## Agentic learning track
-- learned to use the langraph for agents with tool calls and prompt templates
+## Agentic learning framework
+- How to train llms locally to use fine tuning to your advantage.
