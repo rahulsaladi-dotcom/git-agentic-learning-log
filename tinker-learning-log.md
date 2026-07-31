@@ -10,4 +10,4 @@ Revisiting Git basics for personal Projects like this voice based personal produ
 - Publishing to Github
 
 ## Agentic learning framework
-- How to train llms locally to use fine tuning to your advantage.
+- How to train llms locally to use Obsidian MCP and fine tune the model to teach me things.
